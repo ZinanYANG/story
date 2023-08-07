@@ -1,0 +1,10 @@
+# this is a comment 
+.DS_Store
+shit.txt
+4.txt
+3.txt
+# files to be ignored
+
+*.log
+# to remove all files with .log extension (asterik)
+
