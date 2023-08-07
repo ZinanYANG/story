@@ -3,6 +3,7 @@
 shit.txt
 4.txt
 3.txt
+package-lock.json
 # files to be ignored
 
 *.log
